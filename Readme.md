@@ -1,0 +1,1 @@
+This code uses Keras to predict a cat image in the picture using the VGG 16 pre-train model
